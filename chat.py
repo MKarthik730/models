@@ -1,7 +1,7 @@
 from langchain_openai import OpenAI
 from langchain_core.prompts import PromptTemplate
 from pydantic import BaseModel
-from text import OPEN_API_KEY  # your key module
+from text import key  # your key module
 
 
 
@@ -10,7 +10,7 @@ from text import OPEN_API_KEY  # your key module
 llm = OpenAI(
     model="gpt-4o-mini",
     temperature=0.6,
-    api_key=OPEN_API_KEY,
+    api_key=key,
 )
 
 prompt = PromptTemplate(

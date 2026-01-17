@@ -1,0 +1,101 @@
+customer_id,age,income,credit_score,years_employed,debt_to_income,num_credit_cards,late_payments,education,employment_type,marital_status,has_mortgage,loan_amount,loan_approved
+1,25,45000,720,2,0.35,3,0,Bachelor,Full-time,Single,0,15000,1
+2,35,62000,680,5,0.42,4,1,Master,Full-time,Married,1,25000,1
+3,,,650,3,0.28,2,0,Bachelor,Part-time,Single,0,10000,0
+4,45,95000,750,12,0.31,5,0,PhD,Full-time,Married,1,40000,1
+5,28,48000,590,1,0.65,6,3,High School,Full-time,Single,0,8000,0
+6,52,120000,800,20,0.22,4,0,Master,Self-employed,Married,1,50000,1
+7,31,55000,,4,0.38,3,1,Bachelor,Full-time,Single,0,18000,1
+8,200,58000,710,6,0.41,4,0,Bachelor,Full-time,Divorced,0,20000,0
+9,39,72000,695,8,0.36,5,0,Master,Full-time,Married,1,30000,1
+10,26,,,2,0.29,2,0,Bachelor,Full-time,Single,0,12000,1
+11,48,88000,730,15,0.33,6,1,Bachelor,Full-time,Married,1,35000,1
+12,33,51000,620,3,0.58,7,2,Bachelor,Part-time,Single,0,9000,0
+13,41,78000,740,10,0.27,4,0,Master,Full-time,Married,1,32000,1
+14,29,49000,600,2,0.61,5,4,High School,Full-time,Single,0,7000,0
+15,55,105000,780,18,0.25,5,0,PhD,Full-time,Married,1,45000,1
+16,36,64000,690,7,0.39,4,1,Bachelor,Full-time,Married,0,22000,1
+17,27,46000,610,1,0.55,6,3,Bachelor,Part-time,Single,0,8500,0
+18,44,82000,720,11,0.32,5,0,Master,Full-time,Divorced,1,33000,1
+19,,,670,4,0.37,3,1,Bachelor,Full-time,Single,0,16000,1
+20,38,68000,700,9,0.34,4,0,Bachelor,Full-time,Married,1,28000,1
+21,24,42000,580,1,0.68,8,5,High School,Part-time,Single,0,6000,0
+22,50,98000,760,16,0.29,5,0,Master,Self-employed,Married,1,42000,1
+23,32,54000,640,4,0.47,5,2,Bachelor,Full-time,Single,0,14000,0
+24,46,85000,725,13,0.31,6,0,Master,Full-time,Married,1,36000,1
+25,30,52000,,3,0.43,4,1,Bachelor,Full-time,Single,0,17000,1
+26,-5,60000,680,5,0.40,4,1,Bachelor,Full-time,Married,0,21000,1
+27,37,71000,710,8,0.35,5,0,Master,Full-time,Married,1,29000,1
+28,28,47000,595,2,0.62,7,3,Bachelor,Part-time,Single,0,8200,0
+29,53,110000,790,19,0.24,5,0,PhD,Full-time,Married,1,48000,1
+30,34,59000,660,5,0.44,4,1,Bachelor,Full-time,Single,0,19000,1
+31,42,76000,715,10,0.33,5,0,Master,Full-time,Divorced,1,31000,1
+32,26,44000,605,1,0.59,6,4,High School,Full-time,Single,0,7500,0
+33,49,92000,745,14,0.30,6,0,Master,Full-time,Married,1,38000,1
+34,31,56000,635,4,0.49,5,2,Bachelor,Part-time,Single,0,13000,0
+35,40,74000,705,9,0.36,4,0,Bachelor,Full-time,Married,1,27000,1
+36,27,999999,620,2,0.56,7,3,Bachelor,Part-time,Single,0,9500,0
+37,54,108000,775,17,0.26,5,0,PhD,Self-employed,Married,1,46000,1
+38,35,61000,685,6,0.41,4,1,Bachelor,Full-time,Married,0,23000,1
+39,29,50000,,3,0.45,5,1,Bachelor,Full-time,Single,0,15500,1
+40,47,87000,735,12,0.32,6,0,Master,Full-time,Married,1,37000,1
+41,,,625,3,0.52,6,2,Bachelor,Part-time,Single,0,11000,0
+42,51,102000,770,16,0.28,5,0,Master,Full-time,Married,1,43000,1
+43,33,57000,650,5,0.46,4,1,Bachelor,Full-time,Single,0,18500,1
+44,43,80000,720,11,0.34,5,0,Master,Full-time,Divorced,1,32500,1
+45,28,48500,600,2,0.63,7,4,High School,Full-time,Single,0,7800,0
+46,56,115000,795,20,0.23,5,0,PhD,Self-employed,Married,1,49000,1
+47,36,65000,692,7,0.39,4,1,Bachelor,Full-time,Married,0,24000,1
+48,26,45000,615,1,0.57,6,3,Bachelor,Part-time,Single,0,8800,0
+49,45,84000,728,12,0.31,6,0,Master,Full-time,Married,1,34000,1
+50,32,55500,645,4,0.48,5,2,Bachelor,Full-time,Single,0,14500,0
+51,150,70000,695,8,0.37,4,0,Bachelor,Full-time,Married,1,26000,1
+52,25,43000,585,1,0.66,8,5,High School,Part-time,Single,0,6500,0
+53,52,105000,765,17,0.27,5,0,Master,Full-time,Married,1,44000,1
+54,34,58000,655,5,0.45,4,1,Bachelor,Full-time,Single,0,17500,1
+55,44,81000,722,11,0.33,5,0,Master,Full-time,Divorced,1,33500,1
+56,29,49500,,2,0.60,7,3,Bachelor,Part-time,Single,0,8300,0
+57,55,112000,785,19,0.25,5,0,PhD,Self-employed,Married,1,47000,1
+58,37,66000,687,7,0.40,4,1,Bachelor,Full-time,Married,0,22500,1
+59,27,46500,612,2,0.54,6,3,Bachelor,Part-time,Single,0,9200,0
+60,46,86000,730,13,0.32,6,0,Master,Full-time,Married,1,35500,1
+61,31,53000,640,4,0.50,5,2,Bachelor,Full-time,Single,0,13500,0
+62,41,77000,718,10,0.34,5,0,Master,Full-time,Married,1,30500,1
+63,26,44500,608,1,0.58,6,4,High School,Full-time,Single,0,7200,0
+64,50,100000,755,15,0.29,6,0,Master,Full-time,Married,1,40500,1
+65,33,56500,648,5,0.47,5,2,Bachelor,Part-time,Single,0,14200,0
+66,42,75000,708,9,0.35,4,0,Bachelor,Full-time,Married,1,28500,1
+67,28,47500,598,2,0.64,7,4,High School,Full-time,Single,0,7600,0
+68,54,109000,780,18,0.26,5,0,PhD,Self-employed,Married,1,46500,1
+69,35,62500,683,6,0.42,4,1,Bachelor,Full-time,Married,0,23500,1
+70,,,660,4,0.38,3,1,Bachelor,Full-time,Single,0,16500,1
+71,48,90000,738,14,0.30,6,0,Master,Full-time,Married,1,38500,1
+72,30,51500,630,3,0.51,5,2,Bachelor,Part-time,Single,0,12500,0
+73,40,73000,702,9,0.36,4,0,Bachelor,Full-time,Married,1,27500,1
+74,27,45500,618,1,0.56,7,3,Bachelor,Part-time,Single,0,8600,0
+75,53,-999,772,17,0.27,5,0,Master,Full-time,Married,1,44500,1
+76,36,63000,690,7,0.40,4,1,Bachelor,Full-time,Married,0,21500,1
+77,29,50500,625,3,0.46,5,1,Bachelor,Full-time,Single,0,15200,1
+78,47,88000,733,13,0.31,6,0,Master,Full-time,Married,1,37500,1
+79,32,54500,643,4,0.49,5,2,Bachelor,Full-time,Single,0,13800,0
+80,43,79000,715,10,0.34,5,0,Master,Full-time,Divorced,1,31500,1
+81,26,43500,602,1,0.60,6,4,High School,Full-time,Single,0,7300,0
+82,51,103000,768,16,0.28,5,0,Master,Full-time,Married,1,42500,1
+83,34,57500,652,5,0.46,4,1,Bachelor,Full-time,Single,0,17800,1
+84,44,82500,725,12,0.33,5,0,Master,Full-time,Married,1,34500,1
+85,28,48200,,2,0.61,7,3,Bachelor,Part-time,Single,0,8100,0
+86,56,116000,798,20,0.24,5,0,PhD,Self-employed,Married,1,49500,1
+87,37,67000,693,8,0.39,4,1,Bachelor,Full-time,Married,0,24500,1
+88,27,45800,614,1,0.55,6,3,Bachelor,Part-time,Single,0,8900,0
+89,45,83000,727,12,0.32,6,0,Master,Full-time,Married,1,34200,1
+90,31,52500,638,4,0.50,5,2,Bachelor,Full-time,Single,0,13200,0
+91,41,76500,717,10,0.34,5,0,Master,Full-time,Married,1,30800,1
+92,26,44200,606,1,0.59,6,4,High School,Full-time,Single,0,7100,0
+93,50,99000,753,15,0.29,6,0,Master,Full-time,Married,1,40200,1
+94,33,55800,646,5,0.48,5,2,Bachelor,Part-time,Single,0,13900,0
+95,42,74500,706,9,0.36,4,0,Bachelor,Full-time,Married,1,28200,1
+96,28,47800,596,2,0.63,7,4,High School,Full-time,Single,0,7700,0
+97,54,107000,778,18,0.26,5,0,PhD,Self-employed,Married,1,45500,1
+98,35,61500,684,6,0.41,4,1,Bachelor,Full-time,Married,0,22800,1
+99,29,50200,,3,0.45,5,1,Bachelor,Full-time,Single,0,15800,1
+100,46,85500,729,12,0.32,6,0,Master,Full-time,Married,1,36500,1
